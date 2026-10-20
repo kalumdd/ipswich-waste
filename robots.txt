@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.yourwastedomain.co.uk/sitemap.xml
